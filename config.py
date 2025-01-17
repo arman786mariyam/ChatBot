@@ -7,18 +7,18 @@ load_dotenv()
 API_ID = int(getenv("API_ID", 27353035))
 API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
 STRING_SESSION = getenv("STRING_SESSION", None)
-OWNER_ID = int(getenv("OWNER_ID", "5822700831"))
+OWNER_ID = int(getenv("OWNER_ID", "7992144554"))
 MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "Venom_Chatz")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "VenomOwners")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Venom_bolte_pubIic")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "Arman_Chats")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "ArmanCardar")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Mr_ArmanXd")
 
 # Random Start Images
 IMG = [
-    "https://te.legra.ph/file/5bf629d10afd4af953585.jpg",
-    "https://te.legra.ph/file/7a321b99fe99d9d8b5117.jpg",
-    "https://te.legra.ph/file/c482a7e55b459ffe07502.jpg",
-    "https://telegra.ph//file/0879fbdb307005c1fa8ab.jpg",
+    "https://files.catbox.moe/mq2h41.jpg",
+    "https://files.catbox.moe/yi63km.jpg",
+    "https://files.catbox.moe/5its0o.jpg",
+    "https://files.catbox.moe/0d3zjd.jpg",
     "https://telegra.ph//file/19e3a9d5c0985702497fb.jpg",
     "https://telegra.ph//file/b5fa277081dddbddd0b12.jpg",
     "https://telegra.ph//file/96e96245fe1afb82d0398.jpg",
@@ -67,14 +67,14 @@ STICKER = [
 
 
 EMOJIOS = [
-    "💣",
+    "💘",
     "💥",
     "🪄",
     "🧨",
     "⚡",
     "🤡",
     "👻",
-    "🎃",
-    "🎩",
-    "🕊",
+    "💖",
+    "✨",
+    "🫥",
 ]
